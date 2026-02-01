@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# OS
+.DS_Store
+
+# HuggingFace / ML models (DO NOT COMMIT)
+models/
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+
+# Audio
+*.wav
+*.mp3
+
+# Logs
+*.log
+

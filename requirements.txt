@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+librosa
+soundfile
+accelerate
+fastapi
+uvicorn
+scikit-learn
+numpy
+pandas

@@ -1,0 +1,9 @@
+text,label
+"I want to cancel my order",complaint
+"My product is broken",complaint
+"Where is my order",query
+"What is the delivery time",query
+"I need help with payment",request
+"Reset my password",request
+"Great service",feedback
+"I love this product",feedback
