@@ -33,6 +33,7 @@ Audio → ASR → Translation → Emotion Detection → Intent Detection → API
 ---
 
 ## 📦 Project Structure
+```
 audio_emotion_intent_llm/
 │
 ├── api/
@@ -49,7 +50,7 @@ audio_emotion_intent_llm/
 ├── test_full_pipeline.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
